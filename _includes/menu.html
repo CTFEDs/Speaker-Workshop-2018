@@ -1,0 +1,13 @@
+<nav class="main-nav">
+  <ul class="menu">
+  {% for link in site.navigation %}
+    {% assign current = nil %}
+    {% if page.url contains link.url %}
+      {% assign current = 'current' %}
+    {% endif %}
+      <li class="{{ current }}">
+        <a href="{{ site.baseurl }}/{{ link.url }}">{{ link.title }}</a>
+      </li>
+  {% endfor %}
+  </ul>
+</nav>

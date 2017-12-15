@@ -1,0 +1,27 @@
+
+title: Speak up! the fine art of sharing and presenting
+baseurl: "/Speaker-Workshop-2017" # the subpath of your site, e.g. /blog/
+
+markdown: kramdown
+permalink: :title/
+
+navigation:
+ - title: Speak up! the fine art of sharing and presenting
+   url: index.html
+
+exclude: [
+    'node_modules',
+    'bower_components',
+    'Gruntfile.js',
+    'package.json',
+    'bower.json',
+    'requirements.txt',
+    'Gemfile',
+    'Gemfile.lock',
+    'README.md',
+    'sass',
+    'js',
+    'coffee',
+    'env',
+    'tmp'
+]
