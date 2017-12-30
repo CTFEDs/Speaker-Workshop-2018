@@ -3,9 +3,9 @@ layout: default
 title: Workshop stuff
 ---
 
-Training methods based on techniques in [Training From The Back Of The Room](http://bowperson.com/training-from-the-back-of-the-room/) by Sharon Bowman.
+Thanks for attending the workshop! If you're interested in speaking at CTFEDs, we'd love to have you. You can [read more on our call for speakers page](http://ctfeds.org/call-for-speakers/) or [contact us via meetup](http://www.meetup.com/ctfeds/members/?op=leaders).
 
-Ideas and content gathered from **so many** places: see [resources](resources/) for a list.
+Ideas and content gathered from **so many** places: see [resources](resources/) for a list. Training methods based on techniques in [Training From The Back Of The Room](http://bowperson.com/training-from-the-back-of-the-room/) by Sharon Bowman.
 
 The source for this workshop is available as a git repository on GitHub: [Speaker-Workshop-2017](https://github.com/CTFEDs/Speaker-Workshop-2017). Please feel free to share and use it!
 
@@ -19,9 +19,4 @@ The source for this workshop is available as a git repository on GitHub: [Speake
     * [The talk: structure and slides](print/preparing-a-talk-handout.pdf)
     * [Your talk: audience, talk type, title, abstract](print/write-an-abstract-handout.pdf)
 * Wall print outs
-    * [Bio](print/bio.pdf)
     * [Talk types](print/talk-types.pdf)
-
-## Photos
-
-[![](photos/thumbs/agenda.jpg)](photos/agenda.jpg) [![](photos/thumbs/workshop-1.jpg)](photos/workshop-1.jpg) [![](photos/thumbs/workshop-2.jpg)](photos/workshop-2.jpg) [![](photos/thumbs/workshop-3.jpg)](photos/workshop-3.jpg) [![](photos/thumbs/feedback.jpg)](photos/feedback.jpg) 
