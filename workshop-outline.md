@@ -17,7 +17,7 @@ title: Workshop outline
 - **5m** Section: Debunking myths
 - **5m** Activity: What was the most interesting thing? Write it on the poster
 
-**25m**
+**25m** (running total: 25m)
 
 ---
 
@@ -28,15 +28,13 @@ title: Workshop outline
 - Getting Started. Picking the right event
 - **5m** Activity: Where *could* you speak? Write it on the poster
 
-**10m**
+**10m** (running total: 35m)
 
 ---
 
 ## Submitting a talk
 
 - Submitting a talk: Audience
-- **5m** Submitting a talk: Bio
-- **10m** Activity: Write a bio
 - **5m** Submitting a talk: Talk Types
 - Submitting a talk: The abstract
 - **5m** Activity: Read the Abstract notes. Circle the most surprising thing in each section.
@@ -46,13 +44,13 @@ title: Workshop outline
 - **10m** Feedback :clap: 1 thing you liked. 1 thing they could do differently.
 - **5m** Activity: What was the best piece of feedback? Write it on the poster
 
-**65**
+**40** (running total: 1h15m)
 
 ---
 
 ## Break
 
-**10m**
+**10m** (running total: 1h25m)
 
 ---
 
@@ -62,7 +60,7 @@ title: Workshop outline
 - **5m** Preparing a talk. Practice.
 - **15m** Activity: Write a lightning talk
 
-**25m**
+**25m** (running total: 1h50m)
 
 ---
 
@@ -74,4 +72,4 @@ title: Workshop outline
 - **5m** Activity: "Hey buddy!" What will you do next?
 - **5m** Activity: Workshop feedback
 
-**55m**
+**60m** (running total: 2h50m)
