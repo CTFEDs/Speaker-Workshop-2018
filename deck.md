@@ -420,8 +420,20 @@ Submit your abstract somewhere
 ### **Activity** :sparkles:
 
 ## Workshop feedback
+## **One thing you'll<br>tell a friend about<br>this workship**
 
-^ targets on the wall
+^ stickies on the wall
+Anonymous, please be honest!
+
+---
+
+### **Activity** :sparkles:
+
+## "Noice!"
+
+## 👍 👆 ✋
+
+^ thumbs up, high 1, high 5
 
 ---
 

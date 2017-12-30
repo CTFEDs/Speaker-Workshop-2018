@@ -71,5 +71,6 @@ title: Workshop outline
 - **5m** Activity: What's the most useful thing you learned today? Write it on the poster
 - **5m** Activity: "Hey buddy!" What will you do next?
 - **5m** Activity: Workshop feedback
+- **5m** Activity: "Noice!" Thumb up, high 1, high 5
 
 **60m** (running total: 2h50m)
