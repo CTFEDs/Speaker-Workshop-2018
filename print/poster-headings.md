@@ -12,4 +12,8 @@ theme: Scherzkeks, 7
 
 ---
 
-## What's the most useful thing<br>you learned today? 
+## What's the most useful thing<br>you learned today?
+
+---
+
+## One thing you'll<br>tell a friend about<br>this workship
