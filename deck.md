@@ -28,8 +28,7 @@ theme: Fira, 2
 
 # Ohai! :wave:
 
-^ Dani, Steve
-Speaking and workshop history
+^ Speaking and workshop history
 Worst speaking mistake(s)
 
 ---
@@ -37,7 +36,6 @@ Worst speaking mistake(s)
 ## **Agenda**
 
 ^ Put up A4s
-- write a bio
 - write a tiny talk
 - give a tiny talk
 
@@ -199,25 +197,6 @@ any questions?
 How will people decide to see your talk?
 Say what you're going to discuss in detail.
 Specify the audience.
-
----
-
-### **Submitting a talk**
-
-## Bio
-
-^ to the wall
-Will change a little depending on audience
-Dani, Steve, do tiny example of themselves
-
----
-
-### **Activity** :sparkles:
-
-## Write a bio
-
-^ This is just the first draft
-Write it, then revise it
 
 ---
 
@@ -441,9 +420,23 @@ Submit your abstract somewhere
 ### **Activity** :sparkles:
 
 ## Workshop feedback
+## **One thing you'll<br>tell a friend about<br>this workship**
 
-^ targets on the wall
+^ stickies on the wall
+Anonymous, please be honest!
+
+---
+
+### **Activity** :sparkles:
+
+## "Noice!"
+
+## 👍 👆 ✋
+
+^ thumbs up, high 1, high 5
 
 ---
 
 # Thanks! :bow:
+
+# ctfeds.org/gdcfp
