@@ -12,7 +12,6 @@ If you can't make it, please **update your RSVP** to No so that we have a clear 
 
 Thank you!
 
-
 Regards,
 
 Danielle, Justin and Steve
