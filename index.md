@@ -7,7 +7,7 @@ Training methods based on techniques in [Training From The Back Of The Room](htt
 
 Ideas and content gathered from **so many** places: see [resources](resources/) for a list.
 
-The source for this workshop is available as a git repository on GitHub: [Speaker-Workshop-2017](https://github.com/CTFEDs/Speaker-Workshop-2017). Please feel free to share and use it!
+The source for this workshop is available as a git repository on GitHub: [Speaker-Workshop-2018](https://github.com/CTFEDs/Speaker-Workshop-2018). Please feel free to share and use it!
 
 ## Documents
 
@@ -21,7 +21,3 @@ The source for this workshop is available as a git repository on GitHub: [Speake
 * Wall print outs
     * [Bio](print/bio.pdf)
     * [Talk types](print/talk-types.pdf)
-
-## Photos
-
-[![](photos/thumbs/agenda.jpg)](photos/agenda.jpg) [![](photos/thumbs/workshop-1.jpg)](photos/workshop-1.jpg) [![](photos/thumbs/workshop-2.jpg)](photos/workshop-2.jpg) [![](photos/thumbs/workshop-3.jpg)](photos/workshop-3.jpg) [![](photos/thumbs/feedback.jpg)](photos/feedback.jpg) 
