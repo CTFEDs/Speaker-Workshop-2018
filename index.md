@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Workshop stuff
+title: 2018 Speaker workshop
 ---
 
 Thanks for attending the workshop! If you're interested in speaking at CTFEDs, we'd love to have you. You can [read more on our call for speakers page](http://ctfeds.org/call-for-speakers/) or [contact us via meetup](http://www.meetup.com/ctfeds/members/?op=leaders).
