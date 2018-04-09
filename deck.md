@@ -115,7 +115,7 @@ Keep it short!
 
 ## **Section:**
 
-# Debunking myths **:heavy_check_mark:**    
+# Debunking myths **:heavy_check_mark:**
 
 ^ tick it off on the wall
 any questions?
@@ -176,7 +176,7 @@ Dani & Steve discuss the results
 
 ## **Section:**
 
-# Getting Started **:heavy_check_mark:**    
+# Getting Started **:heavy_check_mark:**
 
 ^ tick it off on the wall
 any questions?
@@ -287,7 +287,7 @@ take it or leave it!
 
 ## **Section:**
 
-# Submitting<br>a talk **:heavy_check_mark:**    
+# Submitting<br>a talk **:heavy_check_mark:**
 
 ^ tick it off on the wall
 any questions?
@@ -355,7 +355,7 @@ If you do slides, 1 or 2 plain ones is probably okay: not enough time for design
 
 ## **Section:**
 
-# Preparing<br>a talk **:heavy_check_mark:**    
+# Preparing<br>a talk **:heavy_check_mark:**
 
 ^ tick it off on the wall
 any questions?
@@ -402,7 +402,7 @@ Stop at 5m, whatever happens.
 
 ## **Section:**
 
-# Giving<br>a talk **:heavy_check_mark:**    
+# Giving<br>a talk **:heavy_check_mark:**
 
 ---
 

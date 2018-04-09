@@ -15,7 +15,7 @@ title: Workshop outline
 - **5m** Ohai!
 - **5m** Agenda
 - **5m** Section: Debunking myths
-- **5m** Activity: What was the most interesting thing? Write it on the poster
+- **5m** Activity: What was the most interesting thing?
 
 **25m** (running total: 25m)
 
@@ -24,9 +24,9 @@ title: Workshop outline
 ## Getting Started
 
 - Getting Started. Write about your work or side projects
-- **5m** Activity: What could you write an article about? Write a topic idea or two
+- **5m** Activity: What could you speak about? Where could you speak about it? Write a topic idea or two
 - Getting Started. Picking the right event
-- **5m** Activity: Where *could* you speak? Write it on the poster
+- **5m** Activity: Where *could* you speak?
 
 **10m** (running total: 35m)
 
@@ -34,43 +34,41 @@ title: Workshop outline
 
 ## Submitting a talk
 
-- Submitting a talk: Audience
+- **5m** Submitting a talk: Bio
+- **10m** Activity: Write a bio
 - **5m** Submitting a talk: Talk Types
 - Submitting a talk: The abstract
-- **5m** Activity: Read the Abstract notes. Circle the most surprising thing in each section.
-- **10m** Activity: Write an abstract for your (5m) lightning talk. Audience, Talk Type, Title, Description.
+- **10m** Activity: Write an abstract for your (5m) lightning talk. Use the template and the notes. Audience, Talk Type, Title, Description.
 - Submitting a talk. Get feedback on your abstract. Good feedback is specific, actionable
-- **5m** Activity: Pair up. Read your abstract. Write down feedback.
-- **10m** Feedback :clap: 1 thing you liked. 1 thing they could do differently.
-- **5m** Activity: What was the best piece of feedback? Write it on the poster
+- **10m** Activity: Pair up. Read your abstract. Write down feedback. 1 thing you liked. 1 thing they could do differently.
+- **5m** Activity: What was the best piece of feedback? Share at your table.
 
-**40** (running total: 1h15m)
+**45** (running total: 1h10m)
 
 ---
 
 ## Break
 
-**10m** (running total: 1h25m)
+**10m** (running total: 1h20m)
 
 ---
 
 ## Preparing a talk
 
-- **5m** Activity: Read the "Preparing a talk" notes. Circle the most surprising thing in each section.
 - **5m** Preparing a talk. Practice.
-- **15m** Activity: Write a lightning talk
+- **20m** Activity: Write a lightning talk. Use the template and the notes.
 
-**25m** (running total: 1h50m)
+**25m** (running total: 1h45m)
 
 ---
 
 ## Giving a talk
 
-- **30m** Activity: Give your lightning talk to your group. It's only a first draft
+- **30m** Activity: Give your lightning talk to someone. It's only a first draft
 - **10m** Feedback 1 thing you liked. 1 thing they could do differently. Give them stickies.
-- **5m** Activity: What's the most useful thing you learned today? Write it on the poster
+- **5m** Activity: What's the most useful thing you learned today? Write it on a sticky.
 - **5m** Activity: "Hey buddy!" What will you do next?
 - **5m** Activity: Workshop feedback
 - **5m** Activity: "Noice!" Thumb up, high 1, high 5
 
-**60m** (running total: 2h50m)
+**60m** (running total: 2h45m)
