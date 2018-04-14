@@ -1,22 +1,19 @@
 theme: Poster, 7
 
-# **The Case Study**
+# Overview
 
 ---
 
-# **The Deep Dive**
----
-
-# **The Overview**
+# Case Study
 
 ---
 
-# **Let Me<br>Show You**
+# Deep Dive
 
 ---
 
-# **Intro to X**
+# Let Me<br>Show You
 
 ---
 
-# **What we learned**
+# What we learned
