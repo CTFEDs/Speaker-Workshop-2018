@@ -30,14 +30,14 @@ theme: Fira, 2
 
 ^ Speaking and workshop history
 Worst speaking mistake(s)
+Doing this to (hopefully) help you get started
 
 ---
 
-## **Agenda**
+## **Agenda** :information_desk_person:
 
 ^ Put up A4s
-- write a tiny talk
-- give a tiny talk
+Trying something a bit different: modular workshop
 
 ---
 
@@ -108,7 +108,7 @@ You can buddy up with someone: we can help with that! 😬
 
 ## Write it on the poster :pencil:
 
-^ Dani & Steve discuss the results
+^ Discuss the results
 Keep it short!
 
 ---
@@ -130,7 +130,7 @@ any questions?
 
 ### **Getting Started**
 
-## Write about your work<br>or side projects
+## Talk about your work<br>or side projects
 
 ^ Topic that means something to you
 Writing helps you clarify an idea
@@ -139,12 +139,22 @@ Gives you credibility
 Raise your profile
 Value to your readers
 
+---
+
+### **Getting Started**
+
+## Talk Types
+
+^ to the wall
+Code, tool, process, workflow? Mistakes we made
+Want to talk, but don't know what yet
+Anyone seen one like this?
 
 ---
 
 ### **Activity** :sparkles:
 
-## What could you write<br>an article about?
+## What could you<br>speak about?
 
 ## Write a topic idea or two :pencil:
 
@@ -164,12 +174,12 @@ conferences
 
 ### **Activity** :sparkles:
 
-## Where *could* you speak?<br>🤔
+## Where could you speak?<br>🤔
 
 ## Write it on the poster :pencil:
 
 ^ Go wide!
-Dani & Steve discuss the results
+Discuss the results
 *cough* CTFEDs *cough*
 
 ---
@@ -202,32 +212,11 @@ Specify the audience.
 
 ### **Submitting a talk**
 
-## Talk Types
-
-^ to the wall
-Code, tool, process, workflow? Mistakes we made
-Want to talk, but don't know what yet
-Anyone seen one like this?
-
----
-
-### **Submitting a talk**
-
 ## The abstract
 
 ^ Fancy way of saying the blurb
 Style, Structure
 Hand out handout
-
----
-
-### **Activity** :sparkles:
-
-## Read the Abstract notes
-
-## Circle the most surprising thing in each section
-
-^ A few mins to read it
 
 ---
 
@@ -243,45 +232,27 @@ First draft! Rough!
 
 ---
 
-### **Submitting a talk**
+### **Activity** :sparkles:
 
-## Get feedback on<br>your abstract
+## Pair up
 
-## Good feedback is<br>**specific, actionable**
+## **Read** your abstract
 
-^ "I don't like it."
-:point_down:
-"I'm not sure about the opening."
-:point_down:
-"I think the opening wasn't clear enough."
-Does it work for the audience?
+## Get feedback<br>Use the cards
+
+^ Gonna go around the table and read
+Practice speaking!
+Stand up. Yes, it’s silly. Yes, it helps.
 
 ---
 
 ### **Activity** :sparkles:
 
-## Pair up
+## "Noice!"
 
-## Read your abstract
+## 👍 👆 ✋
 
-## Write down feedback
-
-^ Gonna go around the table and read
-Practice speaking!
-Feedback at the end of everyone reading
-
----
-
-### **Feedback** :clap:
-
-## 1 thing you liked
-
-## 1 thing they could<br>do differently
-
-## **^5** :hand:
-
-^ say why
-take it or leave it!
+^ thumbs up, high 1, high 5
 
 ---
 
@@ -294,17 +265,10 @@ any questions?
 
 ---
 
+
 ## **Section:**
 
 # Preparing<br>a talk
-
----
-
-### **Activity** :sparkles:
-
-## Read the "Preparing a talk" notes
-
-## Circle the most surprising thing in each section
 
 ---
 
@@ -319,7 +283,7 @@ any questions?
 
 ## **Practice**
 
-## Your words
+## Your words 💬
 
 ^ Knowing it gives you confidence,
 room to improvise.
@@ -328,7 +292,7 @@ room to improvise.
 
 ## **Practice**
 
-## Your timing
+## Your timing ⏱
 
 ^ We tend to run really short or really long
 
@@ -336,7 +300,7 @@ room to improvise.
 
 ## **Practice**
 
-## Again and again
+## Again and again 🔁
 
 ^ A few times is probably enough
 
@@ -345,6 +309,8 @@ room to improvise.
 ### **Activity** :sparkles:
 
 ## Write a<br>:zap: lightning talk
+
+## On an index card<br>to keep it short
 
 ^ About 5 minutes.
 A little short is fine.
@@ -378,25 +344,24 @@ any questions?
 
 ## Give your :zap: lightning talk to your group
 
-## It's only a first draft :blush:
+##  Get feedback<br>Use the cards
 
 ^ Groups of 4
+It's only a first draft
 Not gonna be perfect
 But will give you some useful feedback, some new ideas
+Stand up. Yes, it’s silly. Yes, it helps.
+Stop at 5m, whatever happens.
 
 ---
 
-### **Feedback (on stickies)** :clap:
+### **Activity** :sparkles:
 
-## 1 thing you liked
+## "Noice!"
 
-## 1 thing they could<br>do differently
+## 👍 👆 ✋
 
-## **^5** :hand:
-
-^ take it or leave it!
-Need to time it.
-Stop at 5m, whatever happens.
+^ thumbs up, high 1, high 5
 
 ---
 
@@ -424,16 +389,6 @@ Anonymous, please be honest!
 
 ---
 
-### **Activity** :sparkles:
-
-## "Noice!"
-
-## 👍 👆 ✋
-
-^ thumbs up, high 1, high 5
-
----
-
 # Thanks! :bow:
 
-# ctfeds.org/gdcfp
+# ctfeds.org/speakup
