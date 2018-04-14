@@ -195,6 +195,49 @@ any questions?
 
 ## **Section:**
 
+# Writing<br>a bio
+
+---
+
+### **Activity** :sparkles:
+
+## Write a bio
+
+^ This is just the first draft
+Write it, then revise it
+Do tiny example of ourselves
+
+---
+
+### **Activity** :sparkles:
+
+## Pair up
+## **Read** your bio
+## Get feedback<br>Use the cards
+
+^ Read, for practice
+Stand up. Yes, it’s silly. Yes, it helps.
+
+---
+
+### **Activity** :sparkles:
+
+## "Noice!"
+
+## 👍 👆 ✋
+
+^ thumbs up, high 1, high 5
+
+---
+
+## **Section:**
+
+# Writing<br>a bio **:heavy_check_mark:**
+
+---
+
+## **Section:**
+
 # Submitting<br>a talk
 
 ---
