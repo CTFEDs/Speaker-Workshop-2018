@@ -4,7 +4,7 @@ theme: Scherzkeks, 7
 
 ---
 
-# Preparation
+# Getting Started
 
 ---
 
