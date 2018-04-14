@@ -408,12 +408,9 @@ Stop at 5m, whatever happens.
 
 ### **Activity** :sparkles:
 
-## "Hey buddy!"
+## What's your next step?
 
-## What will you do next?
-
-^ SMART goal
-Submit your abstract somewhere
+^ 5Ws and 1H
 
 ---
 
