@@ -106,7 +106,7 @@ You can buddy up with someone: we can help with that! 😬
 
 ## What was the most interesting thing? 🤔
 
-## Write it on the poster :pencil:
+## Write it on a sticky note :pencil:
 
 ^ Discuss the results
 Keep it short!
@@ -176,7 +176,7 @@ conferences
 
 ## Where could you speak?<br>🤔
 
-## Write it on the poster :pencil:
+## Write it on a sticky note :pencil:
 
 ^ Go wide!
 Discuss the results
