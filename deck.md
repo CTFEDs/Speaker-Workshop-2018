@@ -10,22 +10,6 @@ theme: Fira, 2
 
 ---
 
-### **Activity** :sparkles:
-
-## Why are **you** here today?
-
-## Write on a sticky note
-
----
-
-### **Activity** :sparkles:
-
-## Introduce yourself to someone new
-
-## Share why you<br>are here today
-
----
-
 # Ohai! :wave:
 
 ^ Speaking and workshop history
