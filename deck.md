@@ -197,7 +197,7 @@ Do tiny example of ourselves
 
 ## Pair up
 ## **Read** your bio
-## Get feedback<br>Use the cards
+## Get feedback<br>Use the handouts
 
 ^ Read, for practice
 Stand up. Yes, it’s silly. Yes, it helps.
@@ -214,11 +214,20 @@ Stand up. Yes, it’s silly. Yes, it helps.
 
 ---
 
+
 ## **Section:**
 
 # Writing<br>a bio **:heavy_check_mark:**
 
 ---
+
+
+# **Break!**
+
+# :coffee: :tea:
+
+---
+
 
 ## **Section:**
 
@@ -265,7 +274,7 @@ First draft! Rough!
 
 ## **Read** your abstract
 
-## Get feedback<br>Use the cards
+## Get feedback<br>Use the handouts
 
 ^ Gonna go around the table and read
 Practice speaking!
@@ -282,6 +291,7 @@ Stand up. Yes, it’s silly. Yes, it helps.
 ^ thumbs up, high 1, high 5
 
 ---
+
 
 ## **Section:**
 
@@ -371,7 +381,7 @@ any questions?
 
 ## Give your :zap: lightning talk to your group
 
-##  Get feedback<br>Use the cards
+##  Get feedback<br>Use the handouts
 
 ^ Groups of 4
 It's only a first draft
@@ -409,7 +419,7 @@ Stop at 5m, whatever happens.
 ### **Activity** :sparkles:
 
 ## Workshop feedback
-## **One thing you'll<br>tell a friend about<br>this workship**
+## **One thing you'll<br>tell a friend about<br>this workshop**
 
 ^ stickies on the wall
 Anonymous, please be honest!
