@@ -11,12 +11,15 @@ The source for this workshop is available as a git repository on GitHub: [Speake
 
 ## Documents
 
-* [Workshop Outline](workshop-outline/)
 * [Workshop slides](deck.pdf) (PDF, 4MB)
     * [Deckset](http://decksetapp.com/)-flavoured markdown that it comes from: [deck.md](deck.md)
+* [Workshop slides with speaker notes](deck-with-notes.pdf) (PDF, 4MB) which we print out and use as an outline
 * Handouts
-    * [Abstract: structure and style](print/abstract-handout.pdf)
-    * [The talk: structure and slides](print/preparing-a-talk-handout.pdf)
-    * [Your talk: audience, talk type, title, abstract](print/write-an-abstract-handout.pdf)
+    * [Bio](print/bio.pdf)
+    * [Feedback guidelines](print/feedback.pdf)
+    * [The abstract, the talk, the slides](print/the abstract, the talk, the slides.pdf). This include an extra page, the slides, that we didn't go through in the workshop. It provides a few extra tips on making your slides.
+    * [Write an abstract](print/write-an-abstract-handout.pdf)
+    * [Next steps](print/next-steps.pdf) (5W and 1H)
 * Wall print outs
+    * [Agenda](print/agenda.pdf)
     * [Talk types](print/talk-types.pdf)
